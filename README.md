@@ -133,7 +133,13 @@ A full walkthrough video showcasing:
 ---
 
 ## 👥 Team Contributions
-This project was **equally designed, implemented, and tested** by both - **@VenkataSriSaiSuryaMandava** ([Profile](https://github.com/VenkataSriSaiSuryaMandava)) and - **@DharmavaramRachana** ([Profile](https://github.com/DharmavaramRachana)).
+This project was **equally designed, implemented, and tested** by both:
+
+- **@VenkataSriSaiSuryaMandava**  
+  👉 https://github.com/VenkataSriSaiSuryaMandava
+
+- **@DharmavaramRachana**  
+  👉 https://github.com/DharmavaramRachana
 
 **Equal responsibilities included:**
 - Database schema design & normalization
