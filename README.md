@@ -151,15 +151,6 @@ This project was **equally designed, implemented, and tested** by both:
 
 ---
 
-## 📈 Resume-Aligned Impact
-- Designed and deployed a PostgreSQL-based relational system with stored procedures, triggers, and RBAC concepts
-- Processed **50K+ law enforcement records** with guaranteed integrity
-- Improved analytical query performance by **~40%**
-- Built interactive dashboards supporting crime trend analysis and resource planning
-- Delivered a production-style analytics pipeline from database to visualization
-
----
-
 ## 📂 Repository Structure
 ```
 ├── SQL Create Table.sql
