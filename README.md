@@ -13,7 +13,7 @@ This project demonstrates **database engineering, performance optimization, tran
 ---
 
 ## 🎯 Key Objectives
-- Design a secure, normalized relational database for crime-related records  
+- Design a secure, normalized relational database for crime-related records   
 - Enable fast analytical queries over large datasets  
 - Ensure transactional safety and data integrity  
 - Provide visual insights for crime trends, officer workload, and hotspot analysis  
